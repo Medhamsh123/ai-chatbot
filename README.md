@@ -1,10 +1,14 @@
-# AI Chatbot (Beginner)
+# 🤖 AI Chatbot (Beginner)
 
-This is a simple Python-based chatbot that can respond to basic user questions.
+A simple Python-based chatbot that interacts with users through the terminal.  
+This is my first step into building conversational AI systems.
 
-## Features
-- Takes user input
-- Provides simple responses
-- Beginner-friendly code
+## ✨ Features
+- Accepts user input in real time  
+- Responds to basic greetings and questions  
+- Beginner-friendly and easy to understand  
+- Runs completely in the terminal
 
-More updates coming soon.
+## 🛠️ How to Run
+```bash
+python chatbot.py
